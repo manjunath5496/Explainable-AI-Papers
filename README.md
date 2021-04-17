@@ -4,21 +4,23 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(1).pdf" style="text-decoration:none;">Multi-view Relighting using a Geometry-Aware Network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(1).pdf" style="text-decoration:none;">Visualizing and Understanding Convolutional Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(2).pdf" style="text-decoration:none;">GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(2).pdf" style="text-decoration:none;">On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(3).pdf" style="text-decoration:none;">IBRNet: Learning Multi-View Image-Based Rendering</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(4).pdf" style="text-decoration:none;">NeuTex: Neural Texture Mapping for Volumetric Neural Rendering</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(5).pdf" style="text-decoration:none;">NeX: Real-time View Synthesis with Neural Basis Expansion</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(6).pdf" style="text-decoration:none;">Neural Scene Graphs for Dynamic Scenes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(7).pdf" style="text-decoration:none;">Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(3).pdf" style="text-decoration:none;">This Looks Like That: Deep Learning for
+Interpretable Image Recognition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(4).pdf" style="text-decoration:none;">Understanding Neural Networks Through Deep Visualization</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(5).pdf" style="text-decoration:none;">Visualizing Deep Neural Network Decisions: Prediction Difference Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(6).pdf" style="text-decoration:none;">SmoothGrad: removing noise by adding noise</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(7).pdf" style="text-decoration:none;">Score-CAM:
+Score-Weighted Visual Explanations for Convolutional Neural Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(8).pdf" style="text-decoration:none;"> NeRF−−: Neural Radiance Fields Without Known Camera Parameters </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(9).pdf" style="text-decoration:none;">Learning an Animatable Detailed 3D Face Model from In-The-Wild Images</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(8).pdf" style="text-decoration:none;"> A Simple Saliency Method That Passes the Sanity Checks </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(9).pdf" style="text-decoration:none;">Object Detectors Emerge in Deep Scene CNNs</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(10).pdf" style="text-decoration:none;">RGBD-Net: Predicting color and depth images for novel views synthesis </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(10).pdf" style="text-decoration:none;"> ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(11).pdf" style="text-decoration:none;">Monocular Differentiable Rendering for
 Self-Supervised 3D Object Detection</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(12).pdf" style="text-decoration:none;">AutoInt: Automatic Integration for Fast Neural Volume Rendering</a></li>
