@@ -21,37 +21,34 @@ Score-Weighted Visual Explanations for Convolutional Neural Networks</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(10).pdf" style="text-decoration:none;"> ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(11).pdf" style="text-decoration:none;">Monocular Differentiable Rendering for
-Self-Supervised 3D Object Detection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(12).pdf" style="text-decoration:none;">AutoInt: Automatic Integration for Fast Neural Volume Rendering</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(13).pdf" style="text-decoration:none;">Deep Parametric Indoor Lighting Estimation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(11).pdf" style="text-decoration:none;">Explanation by Progressive Exaggeration</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(12).pdf" style="text-decoration:none;">Counterfactual Visual Explanations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(13).pdf" style="text-decoration:none;">Using KL-divergence to focus Deep Visual Explanation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(14).pdf" style="text-decoration:none;">Infinite Nature:
-Perpetual View Generation of Natural Scenes from a Single Image</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(14).pdf" style="text-decoration:none;">Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(15).pdf" style="text-decoration:none;">Continuous Surface Embeddings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(15).pdf" style="text-decoration:none;">Understanding Black-box Predictions via Influence Functions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(16).pdf" style="text-decoration:none;">Learned Initializations for Optimizing Coordinate-Based Neural Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(16).pdf" style="text-decoration:none;">Interpretable Image Recognition with Hierarchical Prototypes</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(17).pdf" style="text-decoration:none;">A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(17).pdf" style="text-decoration:none;">Interpretable Explanations of Black Boxes by Meaningful Perturbation</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(18).pdf" style="text-decoration:none;">Photorealistic Audio-driven Video Portraits</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(18).pdf" style="text-decoration:none;">Striving for Simplicity: The All Convolutional Net</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(19).pdf" style="text-decoration:none;">NeRF++: Analyzing and Improving Neural Radiance Fields</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(19).pdf" style="text-decoration:none;">Bias Also Matters: Bias Attribution for Deep Neural Network Explanation</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(20).pdf" style="text-decoration:none;">Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(20).pdf" style="text-decoration:none;">Axiomatic Attribution for Deep Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(21).pdf" style="text-decoration:none;">Extreme View Synthesis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(22).pdf" style="text-decoration:none;">Deep Multi Depth Panoramas
-for View Synthesis</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(23).pdf" style="text-decoration:none;">Deep Multi Depth Panoramas
-for View Synthesis</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(21).pdf" style="text-decoration:none;">Network Dissection:
+Quantifying Interpretability of Deep Visual Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(22).pdf" style="text-decoration:none;">Anchors: High-Precision Model-Agnostic Explanations</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(23).pdf" style="text-decoration:none;">Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(24).pdf" style="text-decoration:none;">Neural Lumigraph Rendering</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(24).pdf" style="text-decoration:none;">Understanding Deep Image Representations by Inverting Them</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(25).pdf" style="text-decoration:none;">HeadGAN: Video-and-Audio-Driven Talking Head Synthesis</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(25).pdf" style="text-decoration:none;">Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(26).pdf" style="text-decoration:none;">Generative View Synthesis: From Single-view Semantics to Novel-view Images</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(27).pdf" style="text-decoration:none;">Single-Shot Freestyle Dance Reenactment</a></li>
    
