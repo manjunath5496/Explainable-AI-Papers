@@ -49,32 +49,36 @@ Quantifying Interpretability of Deep Visual Representations</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(24).pdf" style="text-decoration:none;">Understanding Deep Image Representations by Inverting Them</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(25).pdf" style="text-decoration:none;">Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(26).pdf" style="text-decoration:none;">Generative View Synthesis: From Single-view Semantics to Novel-view Images</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(27).pdf" style="text-decoration:none;">Single-Shot Freestyle Dance Reenactment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(26).pdf" style="text-decoration:none;">Towards Robust Interpretability
+with Self-Explaining Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(27).pdf" style="text-decoration:none;">Towards better understanding of gradient-based attribution methods for Deep Neural Networks</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(28).pdf" style="text-decoration:none;">MakeItTalk: Speaker-Aware Talking-Head Animation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(28).pdf" style="text-decoration:none;">Interpretable Convolutional Neural Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(29).pdf" style="text-decoration:none;">Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(29).pdf" style="text-decoration:none;">Understanding intermediate layers
+using linear classifier probes </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(30).pdf" style="text-decoration:none;">Pix2Shape { Towards Unsupervised Learning of 3D Scenes from Images using a View-based Representation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(30).pdf" style="text-decoration:none;">Black Box Explanation by Learning Image Exemplars in the Latent Feature Space</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(31).pdf" style="text-decoration:none;">NeRD: Neural Reflectance Decomposition from Image Collections</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(32).pdf" style="text-decoration:none;">Mixture of Volumetric Primitives for Efficient Neural Rendering</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(31).pdf" style="text-decoration:none;">Sanity Checks for Saliency Maps</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(32).pdf" style="text-decoration:none;">Grad-CAM:
+Visual Explanations from Deep Networks via Gradient-based Localization</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(33).pdf" style="text-decoration:none;">Mesh Guided One-shot Face Reenactment Using Graph Convolutional Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(33).pdf" style="text-decoration:none;">Learning Deep Features for Discriminative Localization</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(34).pdf" style="text-decoration:none;">Object-based Illumination Estimation with Rendering-aware Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(34).pdf" style="text-decoration:none;">An unexpected unity among methods for interpreting model predictions</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(35).pdf" style="text-decoration:none;">Deformable Neural Radiance Fields</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(35).pdf" style="text-decoration:none;">"Why Should I Trust You?"
+Explaining the Predictions of Any Classifier</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(36).pdf" style="text-decoration:none;">StyleUV: Diverse and High-quality UV Map Generative Model</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(36).pdf" style="text-decoration:none;">The (Un) reliability of saliency methods</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(37).pdf" style="text-decoration:none;">Neural Re-Rendering of Humans from a
-Single Image</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(38).pdf" style="text-decoration:none;">Portrait Neural Radiance Fields from a Single Image</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(39).pdf" style="text-decoration:none;">NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(40).pdf" style="text-decoration:none;">Modular Primitives for High-Performance Differentiable Rendering</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(41).pdf" style="text-decoration:none;">Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(42).pdf" style="text-decoration:none;">Equivariant Multi-View Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(37).pdf" style="text-decoration:none;">Learning Important Features Through Propagating Activation Differences</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(38).pdf" style="text-decoration:none;">A Unified Approach to Interpreting Model Predictions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(39).pdf" style="text-decoration:none;">TED: Teaching AI to Explain its Decisions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(40).pdf" style="text-decoration:none;">Understanding Deep Neural Networks For Regression In Leaf Counting</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(41).pdf" style="text-decoration:none;">Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Explainable-AI-Papers/blob/master/ex(42).pdf" style="text-decoration:none;">"Why did you do that?"
+Explaining black box models with Inductive Synthesis</a></li>
  </ul>
